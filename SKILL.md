@@ -1,3 +1,9 @@
+---
+name: photo-dedup
+description: "Find & select unique photos from duplicates using perceptual hashing. Interactive browser UI for reviewing duplicate groups. Use when user says: dedup photos, find duplicate photos, unique photos, remove duplicate images, photo dedup, /photo-dedup."
+user_invocable: true
+---
+
 # Photo Dedup — Find & Select Unique Photos from Duplicates
 
 Use this skill when the user wants to deduplicate photos, find unique images from a large set, remove similar/duplicate photos, or organize photos by uniqueness. Trigger phrases: "dedup photos", "find duplicate photos", "unique photos", "remove duplicate images", "photo dedup", "/photo-dedup".
